@@ -1,13 +1,7 @@
-Hier ist eine gekürzte, prägnante Version. Sie dient als "Visitenkarte" für das Repository, verweist aber für Details auf die Dokumentation.
-
-***
-
-```markdown
 # Azure Real-Time Data Engineering Pipeline
 
 Dieses Repository enthält den Quellcode für eine skalierbare **Microservice-Architektur** auf Microsoft Azure. Das System verarbeitet Datenströme in Echtzeit und implementiert eine **Lambda-Architektur** (Hot Path & Cold Path).
 
-📌 *Hinweis: Die detaillierte Dokumentation und theoretische Herleitung befindet sich im separaten Projektbericht.*
 
 ## 🏗 Architektur-Übersicht
 
