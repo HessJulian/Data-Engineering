@@ -1,0 +1,5 @@
+azure-eventhub
+azure-eventhub-checkpointstoreblob-aio
+azure-storage-file-datalake
+sqlalchemy
+psycopg2-binary
